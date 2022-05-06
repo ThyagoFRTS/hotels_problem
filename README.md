@@ -35,23 +35,23 @@ This app requires Python 3 to run.
 - Download zip code or git clone in your bash and enter on folder.
 
 ```sh
-~/dev$ cd hotel_problem
+~/dev$ cd hotels_problem
 ```
 - To install the required modules:
 ```
-~/dev/hotel_problem$ pip install -r requirements.txt
+~/dev/hotels_problem$ pip install -r requirements.txt
 ```
 - or
 ```
-~/dev/hotel_problem$ pip3 install -r requirements.txt
+~/dev/hotels_problem$ pip3 install -r requirements.txt
 ```
 ## How to Use
 - Run this command in your bash to use command line program
 ```sh
-~/dev/hotel_problem$ python main.py
+~/dev/hotels_problem$ python main.py
 ```
 - To run the (failing) test:
 ```
-~/dev/hotel_problem$ py.test
+~/dev/hotels_problem$ py.test
 ```
 

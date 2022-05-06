@@ -50,7 +50,7 @@ This app requires Python 3 to run.
 ```sh
 ~/dev/hotels_problem$ python main.py
 ```
-- To run the (failing) test:
+- To run the test:
 ```
 ~/dev/hotels_problem$ py.test
 ```

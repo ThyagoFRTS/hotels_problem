@@ -2,9 +2,9 @@
 
 This is an aplication for intership program from Syngenta
 
-## The Challange
+## The Challenge
 
-The chanllange is to optimize cost benefit in hotel's ticket (Lakewood, Bridgewood and Ridgewood). The next table will display status from each hotel.
+The chanllenge is to optimize cost benefit in hotel's ticket (Lakewood, Bridgewood and Ridgewood). The next table will display status from each hotel.
 - In week day
 
 | User Type | Lakewood | Bridgewood | Ridgewood |
